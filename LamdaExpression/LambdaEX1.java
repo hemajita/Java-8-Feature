@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class LambdaEX1 {
     public static void main(String[] args){
-        ArrayList<Integer> arr=new ArrayList<Integer>();
+        ArrayList<Integer> arr=new ArrayList<>();
         arr.add(14);
         arr.add(10);
         arr.add(18);
